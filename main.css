@@ -1,3 +1,32 @@
 body {
   background-color: aqua;
 }
+
+header {
+  color: red;
+}
+
+#current-job {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 3px dotted red;
+  }
+
+  #second-job { 
+      font-family: "Indie Flower", cursive;
+      font-weight: 400;
+      font-style: normal;
+      border: 2px solid
+  }
+
+  #third-job {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    border: 1px solid blueviolet;
+
+  }
+
+
+  
